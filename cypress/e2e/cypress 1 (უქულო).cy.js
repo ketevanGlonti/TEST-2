@@ -157,5 +157,6 @@ describe.only('Test Case 5: Register User with existing email', () => {
 // 8. Verify error 'Email Address already exist!' is visible
     cy.contains('Email Address already exist!').should('be.visible');
 
+    
   });
 });
