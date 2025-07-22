@@ -1,0 +1,18 @@
+{
+  "name": "Ketighlonti",
+  "email": "ketighlonti333@mail.com",
+  "password": "test123!",
+  "day": "27",
+  "month": "January",
+  "year": "1997",
+  "first_name": "keti",
+  "last_name": "ghlonti",
+  "company": "testcompany",
+  "address1": "123 main st",
+  "address2": "1234 main st",
+  "country": "Canada",
+  "state": "ontorio",
+  "city": "toronto",
+  "zipcode": "test",
+  "mobile": "1234567890"
+}
